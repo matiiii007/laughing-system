@@ -1,0 +1,2304 @@
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:06:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:06:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:06:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:03Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:03Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:03Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:04Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:04Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:04Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:05Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:05Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:05Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:06Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:06Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:06Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:07Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:07Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:07Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:08Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:08Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:09Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:09Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:09Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:10Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:10Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:10Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:11Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:11Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:11Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:12Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:12Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:12Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:13Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:13Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:13Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:14Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:14Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:15Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:15Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:15Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:16Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:16Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:16Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:17Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:17Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:17Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:18Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:18Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:18Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:19Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:19Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:20Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:20Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:20Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:21Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:21Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:21Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:22Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:22Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:22Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:23Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:23Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:23Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:24Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:24Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:24Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:25Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:25Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:25Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:26Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:26Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:27Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:27Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:27Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:28Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:28Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:28Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:29Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:29Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:29Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:30Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:30Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:30Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:31Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:31Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:31Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:32Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:32Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:33Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:33Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:33Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:34Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:34Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:34Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:35Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:35Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:35Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:36Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:36Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:36Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:37Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:37Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:37Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:38Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:38Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:38Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:39Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:39Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:40Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:40Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:40Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:41Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:41Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:41Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:42Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:42Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:42Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:43Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:43Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:43Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:44Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:44Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:44Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:45Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:45Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:46Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:46Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:46Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:07:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:07:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:07:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:03Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:03Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:03Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:04Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:04Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:04Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:05Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:05Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:06Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:06Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:06Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:07Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:07Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:07Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:08Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:08Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:08Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:09Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:09Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:09Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:10Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:10Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:10Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:11Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:11Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:11Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:12Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:12Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:13Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:13Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:13Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:14Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:14Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:14Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:15Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:15Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:15Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:16Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:16Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:16Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:17Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:17Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:18Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:18Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:18Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:19Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:19Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:19Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:20Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:20Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:20Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:21Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:21Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:21Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:22Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:22Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:22Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:23Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:23Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:23Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:24Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:24Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:24Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:25Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:25Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:26Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:26Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:26Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:27Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:27Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:27Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:28Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:28Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:28Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:29Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:29Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:29Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:30Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:30Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:30Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:31Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:31Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:31Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:32Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:32Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:32Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:33Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:33Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:33Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:34Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:34Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:35Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:35Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:35Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:36Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:36Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:36Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:37Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:37Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:38Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:38Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:38Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:39Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:39Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:39Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:40Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:40Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:40Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:41Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:41Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:41Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:42Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:42Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:42Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:43Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:43Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:44Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:44Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:44Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:45Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:45Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:45Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:46Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:47Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:48Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:49Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:50Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:51Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:52Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:55Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:56Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:57Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:58Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:08:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:08:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:08:59Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:09:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:09:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:09:00Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:09:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 150.00, "timestamp": "2020-05-12T17:09:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 2.80, "timestamp": "2020-05-12T17:09:01Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 200.00, "timestamp": "2020-05-12T17:09:02Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm2-5", "function": "ParticulateMatterSensorFunction1", "value": 333.33, "timestamp": "2020-05-12T20:30:53Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "level", "function": "UVSensorFunction1", "value": 5.80, "timestamp": "2020-05-12T20:30:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
+TOGW: json   received from client: { "device": { "logicalAddress": "", "physicalAddress": "357520076044664" }, "type": "custom", "data": { "attribute": "pm1", "function": "ParticulateMatterSensorFunction1", "value": 123.45, "timestamp": "2020-05-12T20:30:54Z" } }
+TOGW: reason received from client: custom
+TOGW: id     received from client: 59
+Invoking a method (blocking): Start
+Invoking a method (blocking): End (ret_code=0)
+
