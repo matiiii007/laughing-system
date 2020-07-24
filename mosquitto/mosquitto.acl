@@ -1,0 +1,7 @@
+user sicom
+topic readwrite device/sensor/+/sensor
+topic readwrite device/sensor/+/update
+
+user mati
+topic readwrite device/sensor/+/sensor
+topic readwrite device/sensor/+/update
